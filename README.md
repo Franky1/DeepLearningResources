@@ -34,6 +34,12 @@ Deep learning techniques rely mostly on fundamental linear algebra, a bit of opt
 
 * **[NEEDED]**
 
+### Python Libraries
+
+* **[Youtube]**
+* **[Youtube]**
+* **[Youtube]**
+
 ### Task specific knowledge
 
 Depending on the task that you want to work on, some background on what the data for that task typically looks like might be useful.
@@ -79,6 +85,13 @@ Fall 2018](https://inst.eecs.berkeley.edu/~cs188/fa18/) **[Lecture]**
 #### TensorFlow
 
 * [Get started with TensorFlow](https://www.tensorflow.org/tutorials) **[Website]**
+* [Introducing Tensorflow 2.0](https://www.youtube.com/watch?v=k5c-vg4rjBw) **[Youtube]**
+* [Taking Advantage of GPUs and TPUs](https://www.youtube.com/watch?v=tCYSce6l8gA) **[Youtube]**
+
+#### Keras
+
+* [Keras.io](https://keras.io/) Documentation **[Website]**
+* **[Youtube]**
 
 #### PyTorch
 
@@ -113,6 +126,14 @@ These will be added in subfolders in the future.
 * [Distill](https://distill.pub/) **[Journal]**
 * [/r/MachineLearning](https://www.reddit.com/r/MachineLearning/) **[Website]**
 * [/r/learnmachinelearning](https://www.reddit.com/r/learnmachinelearning/) **[Website]**
+
+### Interesting Youtube Channels
+
+* [sentdex](https://) **[Youtube Channel]**
+* [3Blue1Brown](https://) **[Youtube Channel]**
+* [Siraj Raval](https://) **[Youtube Channel]**
+* [Kaggle](https://) **[Youtube Channel]**
+* [Enthought](https://) **[Youtube Channel]**
 
 ### Newsletters
 
