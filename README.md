@@ -29,16 +29,19 @@ Deep learning techniques rely mostly on fundamental linear algebra, a bit of opt
 ### Machine Learning
 
 * [Artificial Intelligence: A Modern Approach](http://aima.cs.berkeley.edu/) **[Book]**
+* [Intro to Machine Learning](https://www.kaggle.com/learn/intro-to-machine-learning) by Kaggle **[Online Course]**
+* [Intermediate Machine Learning](https://www.kaggle.com/learn/intermediate-machine-learning) by Kaggle **[Online Course]**
+
 
 ### Python
 
-* **[NEEDED]**
+* [Python](https://www.kaggle.com/learn/python) by Kaggle **[Online Course]**
 
 ### Python Libraries
 
-* **[Youtube]**
-* **[Youtube]**
-* **[Youtube]**
+* [Pandas](https://www.kaggle.com/learn/pandas) Kaggle **[Online Course]**
+* [Pandas]() **[Youtube]**
+* [Numpy]() **[Youtube]**
 
 ### Task specific knowledge
 
@@ -67,6 +70,8 @@ Fall 2018](https://inst.eecs.berkeley.edu/~cs188/fa18/) **[Lecture]**
 * [Deep Learning](https://www.deeplearningbook.org/) **[Book]**
 * [Neural Networks and Deep Learning](http://neuralnetworksanddeeplearning.com/) **[Book]**
 * [Dive into Deep Learning: An interactive deep learning book with code, math, and discussions](https://d2l.ai/) **[Book]**
+* [Deepl Learning](https://www.kaggle.com/learn/deep-learning) with Tensorflow by Kaggle **[Online Course]**
+* [Neural Networks](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi) **[Youtube Playlist]** - Very good _Deep Learning_ introduction series by _3Blue1Brown_
 
 ## Introductions to Specific Topics
 
@@ -91,7 +96,8 @@ Fall 2018](https://inst.eecs.berkeley.edu/~cs188/fa18/) **[Lecture]**
 #### Keras
 
 * [Keras.io](https://keras.io/) Documentation **[Website]**
-* **[Youtube]**
+* [Hands-on introduction to Deep Learning with Keras and Tensorflow - Rodrigo Agundez](https://www.youtube.com/watch?v=BBIA6Wcu2j4) PyData **[Youtube]**
+* [Introduction to Deep Learning, Keras, and TensorFlow](https://www.youtube.com/watch?v=URERdVb-lpg) H20.ai **[Youtube]**
 
 #### PyTorch
 
@@ -129,11 +135,11 @@ These will be added in subfolders in the future.
 
 ### Interesting Youtube Channels
 
-* [sentdex](https://) **[Youtube Channel]**
-* [3Blue1Brown](https://) **[Youtube Channel]**
+* [sentdex](https://www.youtube.com/user/sentdex/videos) **[Youtube Channel]** - Lots of Python, Data Science, ML, DL Tutorials
+* [Enthought]([https://](https://www.youtube.com/user/EnthoughtMedia/videos)) **[Youtube Channel]** - Lots of Python, Data Science and Machine Learning Lectures
+* [3Blue1Brown]([https://](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos)) **[Youtube Channel]** - Very popular math/science related Lectures
 * [Siraj Raval](https://) **[Youtube Channel]**
 * [Kaggle](https://) **[Youtube Channel]**
-* [Enthought](https://) **[Youtube Channel]**
 
 ### Newsletters
 
