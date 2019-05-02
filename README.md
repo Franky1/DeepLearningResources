@@ -36,12 +36,13 @@ Deep learning techniques rely mostly on fundamental linear algebra, a bit of opt
 ### Python
 
 * [Python](https://www.kaggle.com/learn/python) by Kaggle **[Online Course]**
+* [Python for Everybody - Full Course with Dr. Chuck](https://www.youtube.com/watch?v=8DvywoWv6fI) by freeCodeCamp **[Youtube]**
 
 ### Python Libraries
 
-* [Pandas](https://www.kaggle.com/learn/pandas) Kaggle **[Online Course]**
-* [Pandas]() **[Youtube]**
-* [Numpy]() **[Youtube]**
+* [Pandas](https://www.kaggle.com/learn/pandas) by Kaggle **[Online Course]**
+* [Pandas]() by Enthought **[Youtube]**
+* [Numpy]() by Enthought **[Youtube]**
 
 ### Task specific knowledge
 
